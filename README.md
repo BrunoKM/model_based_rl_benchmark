@@ -1,2 +1,2 @@
-# dynamic_rnn_survey
-Reproduction of various dynamic reinforcement learning methods.
+# Model Based Reinforcement Learning Benchmark
+Reproduction of results of various model-based reinforcement learning methods.
